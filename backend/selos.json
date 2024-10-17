@@ -1,0 +1,42 @@
+{
+    "selos": [
+        {
+            "id": 1,
+            "nome": "acessibilidade",
+            "desrição": "Que bom que vc veio",
+            "niveis": [
+                {
+                    "tipo": "bronze",
+                    "color": "brown"
+                },
+                {
+                    "tipo": "prata",
+                    "color": "gray"
+                },
+                {
+                    "tipo": "ouro",
+                    "color": "yelloe"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "segurança",
+            "desrição": "Que bom que vc veio",
+            "niveis": [
+                {
+                    "tipo": "bronze",
+                    "color": "brown"
+                },
+                {
+                    "tipo": "prata",
+                    "color": "gray"
+                },
+                {
+                    "tipo": "ouro",
+                    "color": "yelloe"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "app": [
+        {
+            "nome": "home",
+            "selos": [
+                {
+                    "tipo": "acessibilidade",
+                    "nivel": "prata"
+                },
+                {
+                    "tipo": "segurança",
+                    "nivel": "ouro"
+                }
+            ]
+        }
+    ]
+}
